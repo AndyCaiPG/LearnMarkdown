@@ -16,7 +16,8 @@ This repository contains:
 
 
 ## Install
-This project does not require installation.Read the markdown syntax in the [LearnMarkdown.md](LearnMarkdown.md) file directly.
+This project require Visual Studio Code. And also need to download the [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) extensions written by Yiyi Wang.
+Use Visual Studio Code to read [LearnMarkdown.md](LearnMarkdown.md) file.
 
 ## Usage
 [![](https://img.shields.io/badge/Usage-LearnMarkdown.md-orange)](LearnMarkdown.md)
