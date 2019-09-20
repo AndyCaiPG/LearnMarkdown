@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/Home-ITcyx%2FLearnMarkdown-orange)](https://github.com/ITcyx/LearnMarkdown)
 
 This repository contains:
+
 [Examples of markdown](LearnMarkdown.md) - some instances written with markdown.
 
 ## Table of Contents
