@@ -21,6 +21,7 @@ Use Visual Studio Code to read [LearnMarkdown.md](LearnMarkdown.md) file.
 
 ## Usage
 [![](https://img.shields.io/badge/Usage-LearnMarkdown.md-orange)](LearnMarkdown.md)
+
 Read the markdown syntax in the [LearnMarkdown.md](LearnMarkdown.md) file directly.
 
 ## Maintainers
@@ -30,6 +31,7 @@ Read the markdown syntax in the [LearnMarkdown.md](LearnMarkdown.md) file direct
 ### Contributors
 
 This project exists thanks to all the people who contribute. 
+
 [@Andy Cai](https://github.com/ITcyx).
 
 
